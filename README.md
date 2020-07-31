@@ -1,7 +1,6 @@
 # BarcodeGeneration
 
 </br>
-</br>
 
 # Introduction
 
