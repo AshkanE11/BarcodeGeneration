@@ -7,7 +7,7 @@
 </br>
 
 Sample Barcode &&& QRLCode Generations Code </br>
-Via The Spire Library For Generating Barcodes &&& QRLCode ...
+Via The Spire Library For Beginners ...
 
 </br>
 
