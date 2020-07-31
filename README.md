@@ -1,13 +1,16 @@
 # BarcodeGeneration
 
+</br>
+</br>
+</br>
 
 # Introduction
 
-
+</br>
 
 Sample Barcode &&& QRLCode Generations Code Via The Spire Library For Generating Barcodes &&& QRLCode ...
 
-
+</br>
 
 # To Do ...
 
